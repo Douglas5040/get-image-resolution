@@ -1,0 +1,275 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.2:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 00:18:59] "GET / HTTP/1.1" 200 -
+192.168.0.2 - - [20/Oct/2022 00:18:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.3 - - [20/Oct/2022 00:19:05] "GET / HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:19:57] "GET / HTTP/1.1" 200 -
+192.168.0.3 - - [20/Oct/2022 00:21:53] "[31m[1mPOST /get-resolution HTTP/1.1[0m" 400 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:22:41] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:25:40] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:26:26] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:26:33] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:28:45] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:31:56] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:34:27] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:35:13] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.3 - - [20/Oct/2022 00:36:21] "POST /get-resolution HTTP/1.1" 200 -
+192.168.0.3 - - [20/Oct/2022 00:36:39] "POST /get-resolution HTTP/1.1" 200 -
+192.168.0.2 - - [20/Oct/2022 00:47:08] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 00:48:00] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\utils.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 00:57:22] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:01:18] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:02:12] "POST /get-resolution HTTP/1.1" 200 -
+192.168.0.2 - - [20/Oct/2022 01:03:55] "[31m[1mPOST /get-resolution HTTP/1.1[0m" 400 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:07:26] "POST /get-resolution HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:07:43] "POST /get-resolution HTTP/1.1" 200 -
+192.168.0.2 - - [20/Oct/2022 01:08:14] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:09:12] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+192.168.0.2 - - [20/Oct/2022 01:09:18] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.2:80
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:10:11] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:10:37] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:11:10] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:12:11] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+192.168.0.2 - - [20/Oct/2022 01:13:09] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:14:19] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:15:25] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+192.168.0.3 - - [20/Oct/2022 01:15:46] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+192.168.0.2 - - [20/Oct/2022 01:17:26] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:22:14] "POST /get-resolution HTTP/1.1" 200 -
+192.168.0.2 - - [20/Oct/2022 01:22:39] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:24:11] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:24:46] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:25:00] "POST /get-resolution HTTP/1.1" 200 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-536-272
+192.168.0.2 - - [20/Oct/2022 01:25:50] "[35m[1mPOST /get-resolution HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\src\\projetcts\\get-image-resolution\\controller.py', reloading
+ * Restarting with stat
